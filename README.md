@@ -23,7 +23,15 @@ Here are some ideas to get you started:
 ### About
 
 - I'm currently working on Python frameworks and Javascript
-- I'm looking to collaborate on small backend projects
-- How to reach me [my twitter](https://www.twitter.com/asaptobi10)
+- I'm looking to collaborate on backend projects
+- How to reach me [my twitter](https://www.twitter.com/asaptobi10).
+
+## GitHub Stats
+<br>
+<p align = "center">
+   <img src = "https://github-readme-stats.vercel.app/api?username=AbdRahman001&show_icons=true&theme=gruvbox"/>
+   
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AbdRahman001&layout=compact"/>
+</p>   
 
  
